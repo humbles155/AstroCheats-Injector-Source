@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\bin\Debug\Astro Injector.exe
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\bin\Debug\Astro Injector.pdb
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\obj\x64\Debug\Astro Injector.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\obj\x64\Debug\Astro Injector.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\obj\x64\Debug\Astro Injector.exe
+C:\Users\Adam\Desktop\Cracked Sources\AstroClient Injector Src\Astro Injector\obj\x64\Debug\Astro Injector.pdb
